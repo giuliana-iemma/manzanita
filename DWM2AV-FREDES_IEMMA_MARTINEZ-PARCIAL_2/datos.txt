@@ -1,7 +1,0 @@
-Escuela de Arte Multimedial Da Vinci
-CARRERA: Diseño y Programación Web
-MATERIA: Interaccion con dispositivos moviles.
-ALUMNOS: Santiago Martinez Donde, Giuliana Iemma, Agustina Fredes.
-CUATRIMESTRE: 2do Cuatrimestre
-COMISIÓN: DWM2AV
-TURNO: Mañana
